@@ -107,7 +107,13 @@ Please fork this repository, make your changes, and submit a pull request.
 ## 🧑‍💻 Author
 Suman Kumar —
 Web Developer | Cloud Enthusiast
-[GitHub]() | [LinkedIn]
+[GitHub](https://github.com/Sumanx16) | [LinkedIn](https://www.linkedin.com/in/suman-kumar16/)
 
 
+## 📜 License
+This project is licensed under the MIT License — see the LICENSE file for details.
 
+
+---
+
+💡 Let me know if you’d also like to add setup commands or specific YAML file examples directly into this file! Would you also like me to help craft a license file?
