@@ -67,3 +67,47 @@ Make sure you have the following installed on your local machine:
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
 ```
+2. Follow the instructions in the docs/ directory to set up clusters.
+
+3. Deploy microservices using provided YAML manifests in manifests/.
+
+4. Test access to your application locally or via public LoadBalancer IP.
+```
+
+├── manifests/           # Kubernetes manifests for deployments and services
+
+├── docs/                # Instructions for setup and configuration
+
+├── scripts/             # Optional automation scripts
+
+├── screenshots/         # Screenshots of dashboard, RBAC setup, etc.
+
+├── README.md            # Project README
+
+## 💡 Learning Resources
+Here are some videos and official docs that helped:
+```
+Minikube Kubernetes setup
+
+Kubeadm Kubernetes setup
+
+AKS deployment & RBAC setup
+
+Microservice deployment on AKS
+
+Service exposure types
+
+Kubernetes Documentation
+```
+
+## 🤝 Contributing
+Contributions are welcome!
+Please fork this repository, make your changes, and submit a pull request.
+
+## 🧑‍💻 Author
+Suman Kumar —
+Web Developer | Cloud Enthusiast
+[GitHub]() | [LinkedIn]
+
+
+
