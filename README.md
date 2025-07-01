@@ -1,4 +1,4 @@
-# Kubernetes Cluster & Microservice Deployment Project
+
 
 This project demonstrates the end-to-end process of creating, configuring, and deploying Kubernetes clusters and microservices on multiple platforms including Minikube, kubeadm, and Azure Kubernetes Service (AKS). It also covers exposing services with different service types and accessing them publicly.
 
